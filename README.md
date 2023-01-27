@@ -1,5 +1,9 @@
 # Python Search Engine
 
+## Source
+
+The original repo I created for this code lives [here](https://github.com/equalo-official/web-crawler) as a part of a project for my youtube channel. 
+
 ## Warning
 
 This is a very rough project and is incomplete in the state I have left it. I just dug it up from an old hard drive and decided to share the code in case anyone is trying to do something similar.
